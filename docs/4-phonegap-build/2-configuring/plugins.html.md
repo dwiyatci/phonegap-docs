@@ -6,7 +6,7 @@ layout: subpage
 
 To extend the native functionality exposed by the PhoneGap native-app container, PhoneGap Build supports most PhoneGap or Cordova plugins.
 
-Plugins can be from <a href="https://build.phonegap.com/plugins" target="_blank">our repostiory</a>, <a href="https://www.npmjs.com/">npm</a> or from a public git repository.
+Plugins can be from <a href="https://build.phonegap.com/plugins" target="_blank">our repository</a>, <a href="https://www.npmjs.com/">npm</a> or from a public git repository.
 
 Plugins need to be implemented differently for each platform, and may not be supported across all PhoneGap platforms. If you're deploying across multiple platforms, ensure that the experience degrades gracefully for users who do not have the plugin available.
 
